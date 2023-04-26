@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aD+r6wciozFScYR8PJe4RGES0+iICrOgaSCRyBHWecPGw8/PZbfI8IXgMmQFfdO2UV0Z2T+aQhAOJhhN1tkGIg==",
+  "dgSpecHash": "yzGfi7kv5J9rV0mYsTHNOVJuQ31yZpuUBRwwmzh2S9AZ7rLhNCDbN8cvtiIojIhMd/sC66tc39YnxKzKw3M1og==",
   "success": true,
   "projectFilePath": "C:\\Users\\VladyslavBerezovskyi\\source\\repos\\SwagLabs-UI\\SwagLabs-UI\\SwagLabs-UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -16,6 +18,9 @@
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\selenium.support\\4.9.0\\selenium.support.4.9.0.nupkg.sha512",
+    "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\selenium.webdriver\\4.9.0\\selenium.webdriver.4.9.0.nupkg.sha512",
+    "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\selenium.webdriver.chromedriver\\112.0.5615.4900\\selenium.webdriver.chromedriver.112.0.5615.4900.nupkg.sha512",
     "C:\\Users\\VladyslavBerezovskyi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
