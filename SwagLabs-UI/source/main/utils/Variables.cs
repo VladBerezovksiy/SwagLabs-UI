@@ -43,6 +43,10 @@
 
         public static readonly string NONEXISTENT_EMAIL = "nonexistingemail@domain.org";
         public static readonly string INCORRECT_PASSWORD = "NonExisting#123";
+        
+        public static readonly string FIRST_NAME = "Roma";
+        public static readonly string LAST_NAME = "AQA";
+        public static readonly string ZIP_CODE = "1231";
 
     }
 }
